@@ -9,10 +9,10 @@ AUTHOR
 	Hely Salgado
     
 DESCRIPTION
-	Make the reverse complement of DNA sequence
+	Make the reverse complement of DNA sequence.
     
 CATEGORY
-	Genomic Sequence
+	Genomic Sequence(Dna sequence)
     
 USAGE
 
